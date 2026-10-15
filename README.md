@@ -309,6 +309,7 @@ Selected Space & Physics projects:
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX) - A document preparation system.
 * [Python](https://www.python.org/) - An interpreted, high-level, general-purpose programming language.
 * [R](https://www.r-project.org/) - Programming language and free software environment for statistical computing and graphics.
+* [Space Atlas](https://saramjh.github.io/space_atlas_student/) - Free browser-based interactive astronomy lessons for Moon phases, Earth seasons, and cosmic scales, with teaching prompts and scientific sources.
 * [Stellarium](http://stellarium.org/) - A free and open source planetarium for your computer.
 * [IRIS](http://www.astrosurf.com/buil/iris-software.html) - Free image processing software.
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - A toolkit comprised of several items like large collection of user-level application program interfaces (APIs) and underlying subroutines and functions, provided as source code with extensive user-focused documentation or ready-to-use library made from the APIs.
